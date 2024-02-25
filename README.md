@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ldt29
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning EE
-- 💞️ I’m looking to collaborate on GNNs
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me lidongting2022@gmail.com
 
 <!---
